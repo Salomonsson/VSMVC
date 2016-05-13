@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCRefreshMemory", "MVCRefreshMemory\MVCRefreshMemory.csproj", "{D170069C-2A70-472A-B3B6-167A4A33B431}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCRefreshMemory.Tests", "MVCRefreshMemory.Tests\MVCRefreshMemory.Tests.csproj", "{202F8504-505A-4CBE-BAF6-AD8D820FEBBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D170069C-2A70-472A-B3B6-167A4A33B431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D170069C-2A70-472A-B3B6-167A4A33B431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D170069C-2A70-472A-B3B6-167A4A33B431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D170069C-2A70-472A-B3B6-167A4A33B431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{202F8504-505A-4CBE-BAF6-AD8D820FEBBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202F8504-505A-4CBE-BAF6-AD8D820FEBBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202F8504-505A-4CBE-BAF6-AD8D820FEBBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202F8504-505A-4CBE-BAF6-AD8D820FEBBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
